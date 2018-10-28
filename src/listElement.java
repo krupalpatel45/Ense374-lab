@@ -10,7 +10,6 @@ public class listElement {
 		this.data = 0;
 		
 	}
-	
 	public void setNext(listElement le)
 	{
 		this.next=le;
@@ -23,7 +22,6 @@ public class listElement {
 	{
 		this.data = data;
 	}
-
 	public int getData()
 	{
 		return this.data;
