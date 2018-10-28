@@ -36,4 +36,4 @@ public class DoubleLLElement { //Making of A double linked list node
 		return this.previous;
 	}
 }
-
+//trial
